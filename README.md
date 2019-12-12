@@ -9,5 +9,5 @@
 8. CNN (3) CNN구현 (CNN)
 9. 밑바닥부터 시작하는 딥러닝 (common, dataset)
 
-**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/DL>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/categories/#dl>**  
 연락처: wjddyd66@naver.com
